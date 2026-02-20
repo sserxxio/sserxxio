@@ -18,7 +18,7 @@ fallo de ortografía. Para eso existen los proyectos libres, para reírse del qu
 
 ## 🔧 Tecnologías y herramientas
 
-Sé algunas cosillas.
+Avalancha de chapitas
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
@@ -36,10 +36,6 @@ Sé algunas cosillas.
 [![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)](#)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-
-
-Tengo trabajado con algunas otras cosillas:
-
 [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?logo=godot-engine)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
@@ -53,9 +49,6 @@ Tengo trabajado con algunas otras cosillas:
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](#)
-
-Como me gustan las chapitas estas macho
-
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
