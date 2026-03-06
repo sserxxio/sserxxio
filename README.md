@@ -57,7 +57,7 @@ Avalancha de chapitas
 
 ## 📈 Estadísticas de GitHub
 
-![SNecrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SNecrio&show_icons=true&theme=radical)
+![Mis stats](https://github-readme-stats.vercel.app/api?username=sserxxio&show_icons=true&theme=radical)
 <!--
 **SNecrio/SNecrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
