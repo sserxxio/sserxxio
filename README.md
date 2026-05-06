@@ -20,6 +20,7 @@ fallo de ortografía. Para eso existen los proyectos libres, para reírse del qu
 
 Avalancha de chapitas
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/250ead5b-0473-43cb-9b40-79ce550396e0/deploy-status)](https://app.netlify.com/projects/celtaiga/deploys)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
