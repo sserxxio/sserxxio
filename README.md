@@ -1,6 +1,6 @@
 # Soy Serxio 🦧
 
-Estudiante de 3º de Ingeniería Informática. Desarrollador de software. Aspirante a director y diseñador de videojuegos.
+Estudiante de 4º de Ingeniería Informática. Desarrollador de software. Aspirante a director y diseñador de videojuegos.
 
 ## 👾 Proyectos
 
