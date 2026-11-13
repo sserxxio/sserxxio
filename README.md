@@ -5,7 +5,7 @@ Estudiante de 4º de Ingeniería Informática. Desarrollador de software. Aspira
 ## 👾 Proyectos
 
 Estoy ahora mismito haciendo una aplicación para que dejes de usar el móvil tanto (tengo problemas con los reels).
-Se llama Your Study Slime, y en cuanto salga será el primer gacha de no hacer absolutamente nada.
+Se llama Slime Time, y en cuanto salga será el primer gacha de no hacer absolutamente nada.
 
 Después de este también tengo otros proyectinis por ahí perdidos, pero esos ya saldrán a la luz cuando sea la hora...
 
